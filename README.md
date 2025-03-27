@@ -16,4 +16,4 @@ The model is built using TinyML framework and trained on a dataset of labeled tr
 
 Link to EdgeImpulse: https://studio.edgeimpulse.com/public/625116/live
 
-Achieves upto 86.49& accuracy.
+Achieves upto 86.49% accuracy.
